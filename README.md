@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<img align="right" height="623" src="https://cdn.cdo.mit.edu/wp-content/uploads/sites/67/2021/01/0_zuhXdNAIUoxEem4-.png"  />
+<!--img align="center" height="300" src="https://cdn.cdo.mit.edu/wp-content/uploads/sites/67/2021/01/0_zuhXdNAIUoxEem4-.png"  /-->
 
 ###
 
