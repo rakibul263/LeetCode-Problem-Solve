@@ -73,4 +73,12 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rakibul263/LeetCode-Problem-Solve/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rakibul263/LeetCode-Problem-Solve/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rakibul263/LeetCode-Problem-Solve/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
