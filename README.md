@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rakibul263/LeetCode-Problem-Solve/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/rakibul263/LeetCode-Problem-Solve/tree/master/0190-reverse-bits) |
 ## Tree
 |  |
 | ------- |
@@ -86,4 +87,8 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/rakibul263/LeetCode-Problem-Solve/tree/master/0125-valid-palindrome) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/rakibul263/LeetCode-Problem-Solve/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
